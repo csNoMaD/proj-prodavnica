@@ -1,5 +1,0 @@
-Izvinjavam se zbog kasnog uploadovanja projekta i uploadovanja svega od jednom, zbog velike guzve na faxu i vijanja 
-budzeta u poslednjim rokovima totalno sam zaboravio da projekat treba upload na GIT kako me je drugar tek sada 
-podsetio da to treba uploadovati ja sam to sada uradio sve od jednom, a primeticete i da sam brisao neke stvari 
-i ponovo ubacivao jer sam imao mali problem sa uploadovanjem ali sam onda shvatio da je najlakse uploadovati sve 
-preko GitHub Desktop aplikacije. Nadam se da je to u redu, i hvala na razumevanju.
